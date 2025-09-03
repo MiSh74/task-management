@@ -3,7 +3,7 @@
 This is a simple task management app built with *Vite (React + SWC)* where user can login , switch between dark and light mode and create tasks and manage them with filters and sorters .
 
 ## Packages/Features used:
-- *React Toolkit*
+- *Redux Toolkit*
 - *React Router*
 - *Context Api*
 - *Tailwind Css*
