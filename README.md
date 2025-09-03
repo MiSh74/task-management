@@ -12,7 +12,7 @@ This is a simple task management app built with *Vite (React + SWC)* where user 
 
 ### 1. CLone & install 
 ```bash
-git clone [https://github.com/MiSh74/task-management.git](https://github.com/MiSh74/task-management.git)
+git clone https://github.com/MiSh74/task-management.git
 cd task-management
 npm install
 ```
